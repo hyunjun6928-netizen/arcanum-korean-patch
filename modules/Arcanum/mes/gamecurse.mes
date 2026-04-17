@@ -1,0 +1,58 @@
+// This is the Curse Message File
+// Each Cursebl starts on a multiple of 10
+// The first line is the log entry. This line is mandatory.
+// The second line is the effect number that should be applied when the Curse activates. This line is mandatory.
+// The third line is the message that appears when the Curse activates. This line is optional.
+
+{500}{Madame Toussaude를 죽인 대가로, 고대 집시의 피의 저주를 받았다.}
+{501}{114}
+{502}{집시의 피의 저주!}
+{510}{Molly Williamson을 죽인 대가로, Stringy Pete의 사악한 저주를 받았다! 몸이 약해지고 마치 병에 걸린 것 같다.}
+{511}{176}
+{512}{Stringy Pete의 역병 저주!}
+{520}{이 저주를 사용하세요!}
+{521}{XXX}
+{522}{이 저주를 사용하세요!}
+{530}{이 저주를 사용하세요!}
+{531}{XXX}
+{532}{이 저주를 사용하세요!}
+{540}{이 저주를 사용하세요!}
+{541}{XXX}
+{542}{이 저주를 사용하세요!}
+{550}{Moorindal의 보호 없이 신 Bolo에게 제물을 바쳤으므로, 지혜의 신 Ter'el의 저주를 받는다.}
+{551}{203}
+{552}{Ter'el의 저주!}
+{560}{Moorindal의 보호 없이 신 Torg에게 제물을 바쳤으므로, 사냥의 신 Makaal의 저주를 받는다.}
+{561}{204}
+{562}{Makaal의 저주!}
+{570}{Moorindal의 보호 없이 신 Shakar에게 제물을 바쳤으므로, 바위의 신 Alberich의 저주를 받는다.}
+{571}{205}
+{572}{Alberich의 저주!}
+{580}{Moorindal의 보호 없이 신 Kerlin에게 제물을 바쳤으므로, 사랑의 여신 Geshtianna의 저주를 받는다.}
+{581}{206}
+{582}{Geshtianna의 저주!}
+{590}{Halcyon의 저주를 받았다!}
+{591}{206}
+{592}{Halcyon의 저주!}
+{600}{Halcyon의 보호 없이 신 Makaal에게 제물을 바쳤으므로, 오우거 심장의 신 Torg의 저주를 받는다.}
+{601}{207}
+{602}{Torg의 저주!}
+{610}{Halcyon의 보호 없이 신 Ter'el에게 제물을 바쳤으므로, 도둑의 신 Bolo의 저주를 받는다.}
+{611}{208}
+{612}{Bolo의 저주!}
+{620}{Halcyon의 보호 없이 여신 Geshtianna에게 제물을 바쳤으므로, 황금의 신 Kerlin의 저주를 받는다.}
+{621}{209}
+{622}{Kerlin의 저주!}
+{630}{Halcyon의 보호 없이 신 Alberich에게 제물을 바쳤으므로, 전쟁의 신 Shakar의 저주를 받는다.}
+{631}{210}
+{632}{Shakar의 저주!}
+{640}{Moorindal의 저주를 받았다!}
+{641}{210}
+{642}{Moorindal의 저주!}
+{650}{Kai'tan의 저주를 받았다!}
+{651}{210}
+{652}{Kai'tan의 저주!}
+{660}{Velorien의 저주를 받았다!}
+{661}{210}
+{662}{Velorien의 저주!}
+{1000}{저주를 받았다!}

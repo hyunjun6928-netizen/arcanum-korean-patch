@@ -1,0 +1,30 @@
+//
+// Story-State Information  --  Currently used by the MainMenu for Load/Save
+//
+
+// These are general descriptions of what the player is doing at a given story-state
+{0}{Preston Radcliffe에게서 이상한 반지를 받고, 현재 그 주인을 찾고 있다.}
+{1}{반지에 새겨진 회사명인 P. Schuyler and Sons에서 누군가를 찾아 이야기해야 할 것 같다.}
+{2}{현재 Gilbert Bates라는 인물에 대해 더 알아내려 하고 있다.}
+{3}{Gilbert Bates를 죽이고, 여전히 블랙 마운틴 클랜의 위치를 찾고 있다.}
+{4}{블랙 마운틴 클랜의 위치를 알게 되었으므로, 그들의 실종에 관한 단서를 찾기 위해 광산을 수색해야 한다.}
+{5}{블랙 마운틴 클랜에서 발견한 단서로 인해, 절망의 섬의 위치를 찾고 있다.}
+{6}{절망의 섬의 위치를 알아냈으므로, 블랙 마운틴 클랜의 실종을 더 조사하기 위해 그곳으로 가야 한다.}
+{7}{절망의 섬에서 블랙 마운틴 클랜의 흔적을 찾지 못하여, 그들에게 무슨 일이 있었는지 알아내기 위해 휠 클랜으로 가야 한다.}
+{8}{휠 클랜에서의 모험을 통해 블랙 마운틴 클랜의 운명에 관한 더 깊은 미스터리가 있음을 알게 되었다. 문제를 더 조사하기 위해 엘프들의 고향 Qintarra를 찾아야 한다.}
+{9}{Qintarra의 위치를 알아냈으므로, 그곳으로 가서 블랙 마운틴 클랜 실종에 엘프들이 관여한 것에 대해 누군가와 이야기해야 한다.}
+{10}{Renford A. Terwilliger라는 인물이 무슨 일이 일어나고 있는지 알아내는 데 도움이 될 수 있을 것 같다.}
+{11}{Renford A. Terwilliger가 죽었다는 것을 알게 된 후, 그가 쓴 책 "Horror Among the 다크 엘프"를 구해야 한다.}
+{12}{"Horror Among the 다크 엘프"의 남은 사본이 하나 있으며, Caladon의 Victor Misk가 소유하고 있다는 것을 발견했다.}
+{13}{"Horror Among the 다크 엘프"의 남은 사본이 하나 있으며, Caladon의 Victor Misk가 소유하고 있다는 것을 발견했다.}
+{14}{"Horror Among the 다크 엘프"를 읽고, 다크 엘프의 고향인 T'sen-Ang의 위치를 발견했다. 그곳으로 가야 할 것 같다.}
+{15}{T'sen-Ang에서의 사건으로 Arronax의 음모가 드러났다. 그에 대해 최대한 알아내야 한다.}
+{16}{답은 거의 2000년 전에 죽은 전설적인 엘프 Nasrudin에게 있는 것 같다. 그에 대해 최대한 알아내야 한다.}
+{17}{Nasrudin의 유해를 조사한 결과 그가 Caladon에 묻히지 않았다는 결론에 이르렀다. Thanatos 섬이 그의 유해를 찾을 다음 논리적 장소인 것 같다.}
+{18}{치명적인 Vendigroth Wastes 어딘가에 있는 전설의 Vendigroth 장치를 찾아야 한다.}
+{19}{Vendigroth Device를 회수했으므로, 가능한 한 빨리 Ring of Brodgar로 가야 한다.}
+{20}{공허로 추방되었으므로, Arronax를 찾아 대면해야 한다.}
+{21}{공허로 추방되어, 정확히 무슨 일이 벌어지고 있는지 알아내야 한다.}
+{22}{Arronax는 모두가 두려워하던 궁극의 악이 아니었던 것 같다. 당신이 맞서야 할 자는 최초의 흑마술사 Kerghan the Terrible이다.}
+{23}{최후의 전투에 도움이 될 강력한 무기, 전설의 Kryggird's Falchion을 찾아야 한다.}
+{24}{게임을 끝냈지만, 롤플레잉 경험을 연장할 방법을 찾은 것 같다. 행운을 빈다!}

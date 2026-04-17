@@ -1,0 +1,5 @@
+*.exe
+*.dat.bak
+*.bak_original
+*.bak
+output/

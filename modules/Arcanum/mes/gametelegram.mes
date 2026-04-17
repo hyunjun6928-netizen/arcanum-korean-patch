@@ -1,0 +1,68 @@
+// This message file contains text to be used in game-supplied telegrams.
+// Only the message line numbers 1000 or higher are valid
+// Each new telegram begins on a multiple of 10, and can use up to 10
+// lines, which must be consecutive. Each line appears in the telegram
+// in one big paragraph, with the word STOP between each line
+// The first two blocks, at 1000 and 1010, are reserved for UI use
+
+{1000}{등급}
+{1001}{서비스}
+{1002}{A등급 양호}
+{1003}{B등급 보통}
+{1004}{C등급 불량}
+{1005}{Tarant 연합}
+{1006}{전보}
+{1007}{기호}
+{1008}{ST-정지}
+{1009}{ET-끝}
+
+{1010}{NR-응답 없음}
+{1011}{본 회사는 메시지 전송에 있어 적절한 주의와 성의를 다하는 것 이상의 책임을 지지 않으며, Tarant 시 내 자사 회선에 최선의 노력을 기울입니다.}
+{1012}{ 정지 }
+
+{1020}{Mr. Ristezze 귀하
+}
+{1021}{주문하신 물품을 동봉합니다:
+
+엘프 부적/제3왕국....300 gp
+은 부족 반지..............150 gp
+화염석 밴드................400 gp
+
+}
+{1022}{물품에 불만이 있으시면 연락해 주십시오.}
+{1023}{
+
+Winston Schuyler
+P. Schuyler & Sons
+44 Devonshire Way
+Tarant 시}
+{1030}{P. Schuyler & Sons 귀중
+}
+{1031}{이 전보로 제 아들 Gilbert Bates를 위해 제작한 인장 반지의 지불 약속을 드립니다.
+}
+{1032}{지시하신 대로 대금을 송금했습니다. 2주 후 Tarant에 도착하여 반지를 수령하겠습니다.
+}
+{1033}{경의를 표하며,
+
+Benjamin Bates}
+
+{1040}{이상한 부적을 가진 우리의 "친구들"에 관해 흥미로운 것을 발견했습니다.}
+{1041}{그들에 관한 이론을 조사하러 떠나니, Tarant에서 만나지 못하는 점 진심으로 사과드립니다.}
+{1042}{이 모든 것이 두 분 모두에게 다소 당혹스러울 거라는 것을 이해합니다. Panarii 종교에 대해 궁금하신 점이 있으면, 아무 신전에나 들러 사제와 이야기해 보십시오.}
+{1043}{Tarant의 Lion's Head Circle 북쪽 끝에 하나 있는 것으로 알고 있습니다.}
+{1044}{여건이 되면, Stillwater 마을로 오십시오.}
+{1045}{Bleeding Rose Inn의 여관 주인에게 제가 어디 있는지 전해 두겠습니다.}
+{1046}{Joachim}
+
+{1050}{
+Thomas Eakins 교수
+Tarant 대학교
+
+}
+{1051}{L'anamelach라니. 정말 나쁜 소식이군요.}
+{1052}{그 짐승을 물리치는 데 필요한 모든 정보가 담긴 T'erre d' V'nt의 전설 사본을 보냈습니다.}
+{1053}{이 서적에 담긴 정보를 읽기 전에는 절대로 악마와 싸우려 하지 마십시오. 그랬다가는 재앙적인 결과를 초래할 것입니다.}
+{1054}{행운을 빕니다.}
+{1055}{
+
+Eakins 교수}
