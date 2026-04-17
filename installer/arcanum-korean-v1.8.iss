@@ -32,12 +32,12 @@ ko.WelcomeLabel2=아카넘 한글 패치 v{#MyAppVersion}%n%nUAP와 고해상도
 en.WelcomeLabel2=Arcanum Korean Patch v{#MyAppVersion}%n%nUpdate for users who already have UAP and HiRes installed.%n%nChanges in v1.8:%n  - Fixed NPC name display bug (13 NPCs in Blackroot etc.)%n  - Auto-removes Vormantown module (conflict fix)%n%nFor fresh installs, use the All-in-One patch.%n%nClick Next to continue.
 
 [Files]
-; 한글 패치 파일
-Source: "C:\Users\jeet\arcanum-allinone-build\korean\ArcanumA_Language.dat"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jeet\arcanum-allinone-build\korean\Arcanum_CN_Font.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jeet\arcanum-allinone-build\korean\modules\Arcanum\dlg\*"; DestDir: "{app}\modules\Arcanum\dlg"; Flags: ignoreversion
-Source: "C:\Users\jeet\arcanum-allinone-build\korean\modules\Arcanum\mes\*"; DestDir: "{app}\modules\Arcanum\mes"; Flags: ignoreversion
-Source: "C:\Users\jeet\arcanum-allinone-build\korean\modules\Arcanum\oemes\*"; DestDir: "{app}\modules\Arcanum\oemes"; Flags: ignoreversion
+; 한글 패치 파일 (상대경로 — korean/ 폴더 기준)
+Source: "korean\ArcanumA_Language.dat"; DestDir: "{app}"; Flags: ignoreversion
+Source: "korean\Arcanum_CN_Font.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "korean\modules\Arcanum\dlg\*"; DestDir: "{app}\modules\Arcanum\dlg"; Flags: ignoreversion
+Source: "korean\modules\Arcanum\mes\*"; DestDir: "{app}\modules\Arcanum\mes"; Flags: ignoreversion
+Source: "korean\modules\Arcanum\oemes\*"; DestDir: "{app}\modules\Arcanum\oemes"; Flags: ignoreversion
 
 [InstallDelete]
 ; Vormantown 모듈 제거 (한글 미지원 + gamedesc.mes 충돌 방지)
