@@ -6,8 +6,8 @@
 
 | 패키지 | 대상 | 다운로드 |
 |--------|------|----------|
-| **올인원 인스톨러** (511MB) | 신규 유저 (순정 스팀/GoG) | [v1.8 다운로드](https://github.com/hyunjun6928-netizen/arcanum-korean-patch/releases/tag/v1.8) |
-| **단독 패치** (8.4MB) | 이미 UAP + 고해상도 설치한 유저 | [v1.8 다운로드](https://github.com/hyunjun6928-netizen/arcanum-korean-patch/releases/tag/v1.8) |
+| **올인원 인스톨러** (675MB) | 신규 유저 (순정 스팀/GoG) | [v1.9 다운로드](https://github.com/hyunjun6928-netizen/arcanum-korean-patch/releases/tag/v1.9) |
+| **단독 패치** (8.4MB) | 이미 UAP + 고해상도 설치한 유저 | [v1.9 다운로드](https://github.com/hyunjun6928-netizen/arcanum-korean-patch/releases/tag/v1.9) |
 
 ## 포함 내용
 
@@ -46,6 +46,9 @@
 1. `Arcanum_Korean_Patch_v1.8.exe` 실행
 2. 아카넘 설치 폴더 선택
 3. 완료
+
+## v1.9 변경사항
+- **마담 릴 퀘스트 버그 수정** — 랭글리에게 5일 대기 선택 후 다시 말 걸면 대화가 안 나오는 원본 게임 버그 수정 (DLG 노드 7/8/17/18 next 연결 누락)
 
 ## v1.8 변경사항
 - **gamedesc.mes NPC 이름 버그 수정** — UAP 2.0.2의 Vormantown 모듈 통합 시 13개 NPC 이름이 엉뚱하게 표시되던 버그 수정
