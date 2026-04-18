@@ -76,6 +76,26 @@
 
 이 패치는 팬 번역 프로젝트이며, 게임 원본을 포함하지 않습니다. 게임은 [Steam](https://store.steampowered.com/app/500810/) 또는 [GOG](https://www.gog.com/game/arcanum_of_steamworks_and_magick_obscura)에서 구매하세요.
 
+## 함께 번역하기 — DLG 에디터
+
+패치에 포함된 **아카넘 DLG 에디터** (`tools/arcanum_dlg_editor.html`)를 사용하면 누구나 대화 파일을 직접 편집할 수 있습니다.
+
+### 사용법
+1. `tools/arcanum_dlg_editor.html` 파일을 브라우저로 열기 (더블클릭)
+2. 게임 폴더의 `modules/Arcanum/dlg/` 에서 DLG 파일을 드래그 또는 선택
+3. 왼쪽 노드 목록에서 대사 선택 → 오른쪽에서 편집
+4. 수정 후 파일 저장 (Ctrl+S) → 게임 폴더에 덮어쓰기
+
+### 특징
+- **설치 불필요** — HTML 파일 하나, 브라우저만 있으면 됨
+- **오프라인 동작** — 인터넷 불필요
+- **대화 트리 시각화** — NPC 대사/PC 선택지 구분, 조건/스크립트 표시
+- **검색** — 텍스트/노드ID/조건으로 검색
+- **CP949 인코딩** — 한글 정상 저장
+- **필드 설명** — cond, script, next 등 DLG 구조 안내 내장
+
+> 함께 번역에 참여하고 싶으시다면, DLG를 수정하고 [Pull Request](https://github.com/hyunjun6928-netizen/arcanum-korean-patch/pulls)를 보내주세요!
+
 ## 빌드
 인스톨러 빌드에는 [Inno Setup 6](https://jrsoftware.org/isinfo.php)이 필요합니다.  
 `.iss` 스크립트는 `installer/` 폴더에 있습니다.
