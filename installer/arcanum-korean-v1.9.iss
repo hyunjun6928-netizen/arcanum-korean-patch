@@ -39,6 +39,9 @@ Source: "korean\modules\Arcanum\dlg\*"; DestDir: "{app}\modules\Arcanum\dlg"; Fl
 Source: "korean\modules\Arcanum\mes\*"; DestDir: "{app}\modules\Arcanum\mes"; Flags: ignoreversion
 Source: "korean\modules\Arcanum\oemes\*"; DestDir: "{app}\modules\Arcanum\oemes"; Flags: ignoreversion
 
+; === DLG 에디터 ===
+Source: "korean\tools\arcanum_dlg_editor.html"; DestDir: "{app}\tools"; Flags: ignoreversion
+
 [InstallDelete]
 ; Vormantown 모듈 제거 (한글 미지원 + gamedesc.mes 충돌 방지)
 Type: filesandordirs; Name: "{app}\modules\Vormantown"
