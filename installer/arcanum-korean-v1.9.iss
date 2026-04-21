@@ -28,8 +28,8 @@ Name: "ko"; MessagesFile: "compiler:Languages\Korean.isl"
 Name: "en"; MessagesFile: "compiler:Default.isl"
 
 [Messages]
-ko.WelcomeLabel2=아카넘 한글 패치 v{#MyAppVersion}%n%nUAP와 고해상도 패치가 이미 설치된 유저용 업데이트입니다.%n%n※ v1.9 변경사항:%n  - 마담 릴 퀘스트 버그 수정 (랭글리 5일 대기 후 대화 안 나오는 원본 버그)%n%n신규 설치는 올인원 패치를 사용하세요.%n%n계속하려면 [다음]을 클릭하세요.
-en.WelcomeLabel2=Arcanum Korean Patch v{#MyAppVersion}%n%nUpdate for users who already have UAP and HiRes installed.%n%nChanges in v1.9:%n  - Fixed Madam Lil quest bug (Langley 5-day wait dialogue not appearing — vanilla bug fix)%n%nFor fresh installs, use the All-in-One patch.%n%nClick Next to continue.
+ko.WelcomeLabel2=아카넘 한글 패치 v{#MyAppVersion}%n%nUAP와 고해상도 패치가 이미 설치된 유저용 업데이트입니다.%n%n※ v1.9 변경사항:%n  - 레이븐(Raven) 전체 번역 완료 (748노드)%n  - 레이븐 대화 끊김 버그 3건 수정%n  - DLG 조건 공백 수정 139개 파일 (UAP 호환성)%n%n신규 설치는 올인원 패치를 사용하세요.%n%n계속하려면 [다음]을 클릭하세요.
+en.WelcomeLabel2=Arcanum Korean Patch v{#MyAppVersion}%n%nUpdate for users who already have UAP and HiRes installed.%n%nChanges in v1.9:%n  - Full Raven translation (748 nodes)%n  - Fixed 3 Raven dialogue break bugs%n  - Fixed DLG condition spacing in 139 files (UAP compatibility)%n%nFor fresh installs, use the All-in-One patch.%n%nClick Next to continue.
 
 [Files]
 ; 한글 패치 파일 (상대경로 — korean/ 폴더 기준)
